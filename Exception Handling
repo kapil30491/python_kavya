@@ -1,0 +1,117 @@
+Exception Handling – QUESTIONS ONLY (No Class)
+Q1. Number Conversion
+Write a program to:
+•	Take a number as input
+•	Convert it to integer
+•	Handle invalid input
+•	Print double of the number if valid
+•	Always print "Conversion Done"
+
+Q2. Average Calculator
+Write a program to:
+•	Take three numbers from user
+•	Handle invalid input
+•	Print average if no error occurs
+•	Always print "Calculation Completed"
+
+Q3. Password Length Check
+Write a program to:
+•	Take password input
+•	Raise an exception if password length is less than 6
+•	Handle invalid input
+•	Print "Password Accepted" if valid
+•	Always print "Password Check Finished"
+
+Q4. Dictionary Value Access
+Write a program to:
+•	Create a dictionary {1: "Python", 2: "Java", 3: "C"}
+•	Take key input from user
+•	Handle key not found error
+•	Print value if key exists
+•	Always print "Dictionary Access Completed"
+
+Q5. Sum of List Elements
+Write a program to:
+•	Create a list [10, 20, 30, 40]
+•	Take index from user
+•	Handle invalid input
+•	Handle index out of range
+•	Print element at index
+•	Always print "List Operation Finished"
+
+Q6. Simple Interest Calculator
+Write a program to:
+•	Take principal, rate, and time as input
+•	Handle invalid input
+•	Raise exception if any value is negative
+•	Print simple interest if valid
+•	Always print "Interest Calculation Done"
+
+Q7. Username Validation
+Write a program to:
+•	Take username input
+•	Raise exception if username contains digits
+•	Handle invalid input
+•	Print "Username Accepted" if valid
+•	Always print "Validation Completed"
+
+Q8. Email Validation
+Write a program to:
+•	Take email input
+•	Raise exception if email does not contain @
+•	Print "Valid Email" if correct
+•	Handle exception properly
+•	Always print "Email Check Finished"
+
+Q9. Multiplication Table
+Write a program to:
+•	Take a number from user
+•	Handle invalid input
+•	Print multiplication table if valid
+•	Always print "Table Generation Completed"
+
+Q10. Safe Tuple Access
+Write a program to:
+•	Create tuple (5, 10, 15)
+•	Take index from user
+•	Handle invalid input
+•	Handle index out of range
+•	Print element if valid
+•	Always print "Tuple Access Finished"
+
+Q11. Calculator with Operator Check
+Write a program to:
+•	Take two numbers and an operator
+•	Handle invalid input
+•	Raise exception for invalid operator
+•	Print result if valid
+•	Always print "Calculator Finished"
+
+Q12. File Write Operation
+Write a program to:
+•	Take file name from user
+•	Write text into file
+•	Handle permission error
+•	Always print "File Write Completed"
+
+Q13. Voting System
+Write a program to:
+•	Take age input
+•	Raise exception if age is less than 18
+•	Handle invalid input
+•	Print "Allowed to vote" if valid
+•	Always print "Voting Check Finished"
+Q14. Temperature Conversion
+Write a program to:
+•	Take temperature in Celsius
+•	Handle invalid input
+•	Print temperature in Fahrenheit if valid
+•	Always print "Conversion Finished"
+
+Q15. Dictionary Update
+Write a program to:
+•	Create dictionary { "a": 1, "b": 2 }
+•	Take key and value from user
+•	Handle invalid input
+•	Update dictionary
+•	Always print "Update Completed"
